@@ -1,0 +1,10 @@
+body{
+    background: blue;
+    font-family:bold;
+    color:red;
+}
+
+li{
+    display: inline-block;
+    position: static;
+}
